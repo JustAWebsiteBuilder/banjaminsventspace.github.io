@@ -1,0 +1,40 @@
+h1 {
+    color: Black;
+    text-align: center;
+    display: block;
+}
+
+a {
+    color: Black;
+    text-align: center;
+    display: block;
+}
+
+body {
+    background-color: rebeccapurple;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: center;
+    size: 24px;
+}
+
+li {
+    float: left;
+    display: block;
+    text-align: center;
+    size: 24px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding: 15px;
+    background-color: darkslateblue;
+    size: 24px;
+    font-size: 24px;
+}

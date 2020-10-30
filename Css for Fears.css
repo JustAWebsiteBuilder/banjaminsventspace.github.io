@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+
+body {
+    background-color: rebeccapurple;
+}
+
+p {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    display: block;
+    text-align: center;
+}
